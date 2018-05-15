@@ -1,0 +1,12 @@
+{
+  "name": "TypeChain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/soojinkim22/TypeChain.git",
+  "author": "soojinkim22@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node index.js",
+    "prestart" : "tsc"
+  }
+}
